@@ -2,4 +2,4 @@
 For learning the repositories of GitHub.
 
 # Editor
-Harsh Patel
+Harsh Patel.
